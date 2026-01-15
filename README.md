@@ -1,4 +1,4 @@
-# OpenAI.fm
+හයිමගෙ යලුවනෙ ඔයලට කොහොමද ඔයල මව පලො කරලා නැත්තන් දැම්ම පලො කරන්න # OpenAI.fm
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 ![NextJS](https://img.shields.io/badge/Built_with-NextJS-blue)
